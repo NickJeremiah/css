@@ -1,0 +1,12 @@
+  body:not(.sqs-edit-mode-active) {
+    &, #page-body-wrapper {
+      overflow-x: hidden;
+    }
+    #blockID {
+      padding: 0px 0;
+      width: 100vw;
+      left: 50%;
+      -webkit-transform: translateX(-50%);
+      transform: translateX(-50%);
+    }
+  }
