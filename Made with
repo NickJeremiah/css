@@ -1,0 +1,17 @@
+<div style=
+    "font-family:'open sans';
+    font-weight: regular;
+    color: #red;
+    text-align: center; 
+    margin-top: 40px"
+> built with <span style=
+    "color:#e54b36" > &#9829;
+</span> by <a style=
+    "color:#081a32;
+    text-decoration:none;
+    border-bottom:1px solid #081a32" 
+href="https://nickdjeremiah.com/design"
+title="Web Designer" 
+target="_blank"
+> nick jeremiah </a></div>
+</div>
